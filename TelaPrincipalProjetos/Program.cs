@@ -1,4 +1,4 @@
-namespace Menu_de_Projetos
+namespace TelaPrincipalProjetos
 {
     internal static class Program
     {
