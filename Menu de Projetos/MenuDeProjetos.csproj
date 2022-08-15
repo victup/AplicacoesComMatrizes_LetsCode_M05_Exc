@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Menu_de_Projetos</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassificadorDeNotas\ClassificadorDeNotas.csproj" />
+    <ProjectReference Include="..\JogoDaVelha\JogoDaVelha.csproj" />
+    <ProjectReference Include="..\LinhasVersusColunas\LinhasVersusColunas.csproj" />
+    <ProjectReference Include="..\SeparadorImparesPares\SeparadorImparesPares.csproj" />
+  </ItemGroup>
+
+</Project>
