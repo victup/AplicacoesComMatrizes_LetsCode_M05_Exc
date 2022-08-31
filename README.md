@@ -3,6 +3,7 @@
 ## Menu
 
 O projeto possui um menu que permite a navegação simplificada entre todos os exercicios desenvolvidos.
+
 ![image](https://user-images.githubusercontent.com/38474570/187734000-1afd83a5-b742-4bee-89f0-22f764d9d5e3.png)
 
 
